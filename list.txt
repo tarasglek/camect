@@ -1,0 +1,4 @@
+ffconcat version 1.0
+#file DIY-Shou-Sugi-Ban-Yakisugi-Maintenance.mp4
+file current.mkv
+file current.mkv
